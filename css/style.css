@@ -1,0 +1,48 @@
+.fondo{
+	background-color: #74AEFC
+}
+.container{
+	max-width: 600px;
+	margin: auto;
+	position: relative;
+}
+.titulo{
+	font-family: sans-serif;
+	font-size: 40px;
+	color: #FF4545;
+	font-weight: bold;
+	text-align: center;
+	margin: auto;
+	text-shadow: 2px 1px 1px #3B3B3B;
+	margin-bottom: 20px;
+	position: absolute;
+		top: 200px;
+		left:10%;
+}
+#dias{
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 20px;
+	color: grey;
+	height: 40px;
+	width: 400px;
+	/*margin: auto;*/
+	margin-left: 0px;
+	position: absolute;
+		top: 300px;
+		left: 100px
+}
+
+#boton{
+	position: absolute;
+		top: 380px;
+		left: 260px;
+	width: 80px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #FF4545;
+	border: none;
+	font-family: cursive;
+	font-size: 1em;
+	color: #FFF;
+}
